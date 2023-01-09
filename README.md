@@ -1,4 +1,5 @@
 # spark-tools
+You can simply start it with “docker run -ti bfblog/spark ./bin/spark-shell”.
  
 ## Regular Expression with named capturing groups
 
